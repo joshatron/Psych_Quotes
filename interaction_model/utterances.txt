@@ -4,8 +4,8 @@ GetNewQuoteIntent a psych quote
 GetNewQuoteIntent tell me a quote
 GetNewQuoteIntent tell me a random quote
 GetNewQuoteIntent tell me a psych quote
+GetNewQuoteIntent tell me something
 GetNewQuoteIntent give me a quote
 GetNewQuoteIntent give me a random quote
 GetNewQuoteIntent give me a psych quote
-GetNewQuoteIntent tell me something
 GetNewQuoteIntent give me something
